@@ -1,1 +1,1 @@
-var suiyan = { url : 'https://lz595875.github.io/suiyanblog/'}
+var suiyan = { url : 'https://lz595875.github.io/suiyanpages/'}
